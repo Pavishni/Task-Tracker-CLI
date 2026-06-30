@@ -56,4 +56,4 @@ task-cli delete 1
 ## Notes
 
 * Tasks are stored in `tasks.json` in the current directory.
-* Each task has - id, description, status, createdAt, updatedAt.
+* Each task has: id, description, status, createdAt, updatedAt.
